@@ -1,0 +1,1 @@
+assert a.isdigit() and b.isdigit(),"Son kiritish kerak"
